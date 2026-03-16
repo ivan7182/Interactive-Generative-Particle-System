@@ -135,12 +135,3 @@ The goal is to experiment with **creative coding techniques** and develop visual
 
 ---
 
-## 👤 Author
-
-Created by **vansatt**
-
----
-
-## 📜 License
-
-MIT License
